@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir Abdul Wahid Nafeesa
 - 👀 I’m interested in Creating Apps and APis
-- 🌱 I’m currently learning Asp.Net Core and I want work on Spring Boot creating Apps and Api even in Javascript
+- 🌱 I’m currently learning and working on building system architecture in ASP.NET Core.
 - 💞️ I’m looking to collaborate on learning and creating amazing projects
 - 📫 How to reach me on Instagram @_not_eligible_
 
