@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amir Abdul Wahid Nafeesa
 - 👀 I’m interested in Creating Apps and APis
 - 🌱 I’m currently learning and working to build System Architecture (DDD, Clean Architecture, etc.) in ASP.NET Core.
-- 💞️ I’m looking to collaborate on learning and creating amazing projects
+- 💞️ I’m looking to collaborate on learning and creating amazing projects in AI, ML and IOT(Drones and camera related)
 - 📫 How to reach me on LinkedIn www.linkedin.com/in/amirawahid
 
 <!---
