@@ -91,8 +91,7 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aali34362&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aali34362&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -103,4 +102,7 @@ You can click the Preview link to take a look at your changes.
 ![snake gif](https://github.com/Aali34362/Aali34362/blob/output/github-snake-dark.svg)
 --->
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aali34362&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
