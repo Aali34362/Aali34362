@@ -8,11 +8,11 @@
 Aali34362/Aali34362 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!---
+
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aali34362&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aali34362&hide_progress=true)
---->
+
 <!---
 # 💫 About Me:
 - 👋 Hi, I’m Amir Abdul Wahid Nafeesa<br>- 👀 I’m interested in Creating Apps and APis<br>- 🌱 I’m currently learning and working to build System Architecture (DDD, Clean Architecture, etc.) in ASP.NET Core.<br>- 💞️ I’m looking to collaborate on learning and creating amazing projects in AI,ML and IOT<br>- 📫 How to reach me on LinkedIn www.linkedin.com/in/amirawahid
@@ -91,7 +91,8 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-
+  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aali34362&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aali34362&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -103,6 +104,5 @@ You can click the Preview link to take a look at your changes.
 --->
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aali34362&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
