@@ -3,16 +3,19 @@
 - 🌱 I’m currently learning and working to build System Architecture (DDD, Clean Architecture, etc.) in ASP.NET Core and Spring Boot.
 - 💞️ I’m looking to collaborate on learning and creating amazing projects in AI, ML and IOT(Drones and camera related)
 - 📫 How to reach me on LinkedIn www.linkedin.com/in/amirawahid
+  
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/black_xipher) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_black_xipher_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirawahid) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@black_xipher) 
 
 <!---
 Aali34362/Aali34362 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!---
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aali34362&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aali34362&hide_progress=true)
-
+--->
 <!---
 # 💫 About Me:
 - 👋 Hi, I’m Amir Abdul Wahid Nafeesa<br>- 👀 I’m interested in Creating Apps and APis<br>- 🌱 I’m currently learning and working to build System Architecture (DDD, Clean Architecture, etc.) in ASP.NET Core.<br>- 💞️ I’m looking to collaborate on learning and creating amazing projects in AI,ML and IOT<br>- 📫 How to reach me on LinkedIn www.linkedin.com/in/amirawahid
